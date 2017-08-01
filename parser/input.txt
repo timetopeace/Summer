@@ -1,0 +1,1 @@
+While True do id := ; arr[10];
